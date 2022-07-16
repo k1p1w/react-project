@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-project/static/css/main.2b72b8a1.css",
-    "main.js": "/react-project/static/js/main.967553ef.js",
+    "main.js": "/react-project/static/js/main.955872c6.js",
     "static/js/787.b09d1248.chunk.js": "/react-project/static/js/787.b09d1248.chunk.js",
     "static/media/color-sharp.png": "/react-project/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/banner-bg.png": "/react-project/static/media/banner-bg.cc1273af450504afe755.png",
@@ -22,11 +22,11 @@
     "static/media/nav-icon1.svg": "/react-project/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/react-project/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.2b72b8a1.css.map": "/react-project/static/css/main.2b72b8a1.css.map",
-    "main.967553ef.js.map": "/react-project/static/js/main.967553ef.js.map",
+    "main.955872c6.js.map": "/react-project/static/js/main.955872c6.js.map",
     "787.b09d1248.chunk.js.map": "/react-project/static/js/787.b09d1248.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b72b8a1.css",
-    "static/js/main.967553ef.js"
+    "static/js/main.955872c6.js"
   ]
 }
