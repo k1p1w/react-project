@@ -428,8 +428,18 @@ nav.navbar .navbar-toggler[aria-expanded='true'] .navbar-toggler-icon {
   }
   /************ Skills Css ************/
   .skill-box {
-    padding: auto;
+    padding: 15px;
     margin: 0 5px;
+  }
+
+  .skill-box p {
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+  }
+
+  .skill-slider .item {
+    padding: 0 15px 5px;
   }
 
   .skill-slider .item h5 {
