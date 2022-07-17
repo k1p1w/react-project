@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-project/static/css/main.c17e84c9.css",
-    "main.js": "/react-project/static/js/main.9d385339.js",
+    "main.css": "/react-project/static/css/main.b1ecc0cb.css",
+    "main.js": "/react-project/static/js/main.34e64b45.js",
     "static/js/787.b09d1248.chunk.js": "/react-project/static/js/787.b09d1248.chunk.js",
     "static/media/color-sharp.png": "/react-project/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/banner-bg.png": "/react-project/static/media/banner-bg.cc1273af450504afe755.png",
@@ -9,10 +9,13 @@
     "static/media/CentraNo2-Bold.ttf": "/react-project/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/react-project/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/react-project/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/react-project/static/media/project-img1.d593db3f12901bc685c2.png",
     "static/media/meter3.png": "/react-project/static/media/meter3.95455302eaaea3ddef17.png",
+    "static/media/project-img2.png": "/react-project/static/media/project-img2.2e52097c417f9f1134b0.png",
     "static/media/meter2.png": "/react-project/static/media/meter2.312dbaa16ed3cde3fbca.png",
     "static/media/meter4.png": "/react-project/static/media/meter4.9c8331545ab96947bfa7.png",
     "static/media/meter1.png": "/react-project/static/media/meter1.b626ca54370a8019c8b2.png",
+    "static/media/project-img3.png": "/react-project/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/revicons.eot": "/react-project/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/react-project/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/react-project/static/media/revicons.e8746a624ed098489406.woff",
@@ -21,12 +24,12 @@
     "index.html": "/react-project/index.html",
     "static/media/nav-icon1.svg": "/react-project/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/react-project/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.c17e84c9.css.map": "/react-project/static/css/main.c17e84c9.css.map",
-    "main.9d385339.js.map": "/react-project/static/js/main.9d385339.js.map",
+    "main.b1ecc0cb.css.map": "/react-project/static/css/main.b1ecc0cb.css.map",
+    "main.34e64b45.js.map": "/react-project/static/js/main.34e64b45.js.map",
     "787.b09d1248.chunk.js.map": "/react-project/static/js/787.b09d1248.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c17e84c9.css",
-    "static/js/main.9d385339.js"
+    "static/css/main.b1ecc0cb.css",
+    "static/js/main.34e64b45.js"
   ]
 }
