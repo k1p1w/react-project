@@ -1,4 +1,4 @@
- ![image](https://user-images.githubusercontent.com/90558407/179686288-3c376050-8b66-43bd-8026-171f087fff21.png)
+![image](https://user-images.githubusercontent.com/90558407/180063077-5e617f34-8094-457a-b4f2-5bc2cfe31a3e.png)
  
  https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio <--
 
