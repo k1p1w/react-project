@@ -1,3 +1,8 @@
+ ![image](https://user-images.githubusercontent.com/90558407/179686288-3c376050-8b66-43bd-8026-171f087fff21.png)
+ 
+ https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio <--
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
